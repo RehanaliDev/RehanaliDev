@@ -117,7 +117,7 @@ const rehanAli = {
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RehanaliDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=94A3B8" alt="Top Languages" width="100%" />
       </td>
       <td width="50%" align="center">
-        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Dev Quote" width="100%" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RehanaliDev&theme=tokyonight" alt="Profile Details" width="100%" />
       </td>
     </tr>
   </table>
@@ -128,17 +128,19 @@ const rehanAli = {
 ### 🏆 GitHub Achievements & Trophies
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=RehanaliDev&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" width="95%" />
+  <a href="https://github.com/RehanaliDev">
+    <img src="https://trophies.vercel.app/?username=RehanaliDev&theme=tokyonight&margin-w=4&no-bg=true&no-frame=true" alt="GitHub Trophies" width="95%" />
   </a>
 </div>
 
 ---
 
-### 📈 Contribution Activity Graph
+### 📈 GitHub Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RehanaliDev&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=6366F1&line=F43F5E&point=FFFFFF" width="100%" alt="Activity Graph" />
+  <a href="https://github.com/RehanaliDev">
+    <img src="https://ghchart.rshah.org/6366f1/RehanaliDev" alt="Contribution Graph" width="100%" />
+  </a>
 </div>
 
 ---
@@ -146,11 +148,7 @@ const rehanAli = {
 ### 🐍 Contribution Snake Animation
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RehanaliDev/RehanaliDev/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RehanaliDev/RehanaliDev/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/RehanaliDev/RehanaliDev/output/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" width="100%" />
 </div>
 
 ---
