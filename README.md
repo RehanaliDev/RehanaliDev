@@ -1,48 +1,212 @@
-# 💫 Hi 👋, I'm Rehan Ali
-**A passionate Full Stack Web Developer**
-
-Email Me 👉 ✉️ **alirehan3920@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Full Stack Web Development
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** alirehan3920@gmail.com
-- 😄 **Pronouns:** Rehan
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
-
-## 🔗 I am a Full Stack Web Developer. 😊😊
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rehanali_dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/RehanAli) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@RehanAli) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alirehan3920@gmail.com) 
-
-<!-- Snake Game Repo View -->
+<!-- =======================================================
+  🔥 ULTRA-MODERN GITHUB PROFILE README
+  👤 Author: Rehan Ali (@RehanaliDev)
+  🚀 Role: Full Stack Web Developer
+======================================================= -->
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
+  <!-- 🌟 Top Dynamic Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,30&height=220&section=header&text=Hi%20there,%20I'm%20Rehan%20Ali!%20👋&fontSize=42&fontAlignY=38&animation=twinkling&desc=Full%20Stack%20Web%20Developer%20%7C%20Tech%20Enthusiast%20%7C%20Open%20Source%20Explorer&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
+
+  <!-- ⚡ Animated Typing Headline -->
+  <a href="https://github.com/RehanaliDev">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=6366F1&center=true&vCenter=true&random=false&width=650&lines=Full+Stack+Web+Developer;Building+Scalable+%26+Modern+Web+Apps;MERN+%26+Django+Specialist;Crafting+Smooth+User+Experiences;Open+Source+Contributor+%26+Lifelong+Learner" alt="Typing SVG" />
+  </a>
+
+  <br/>
+
+  <!-- 📊 Profile Badges & Real-time Metrics -->
+  <p align="center">
+    <a href="https://github.com/RehanaliDev">
+      <img src="https://img.shields.io/badge/Status-Open%20For%20Opportunities-success?style=for-the-badge&logo=codeforces&logoColor=white&color=00c853" alt="Status" />
+    </a>
+    <a href="https://github.com/RehanaliDev">
+      <img src="https://komarev.com/ghpvc/?username=RehanaliDev&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" alt="Profile Views" />
+    </a>
+    <a href="mailto:alirehan3920@gmail.com">
+      <img src="https://img.shields.io/badge/Contact-Hire%20Me-blue?style=for-the-badge&logo=gmail&logoColor=white&color=ea4335" alt="Hire Me" />
+    </a>
+  </p>
+
+  <!-- 🌐 Social Media Links with Sleek Badges -->
+  <p align="center">
+    <a href="https://linkedin.com/in/RehanAli" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://instagram.com/rehanali_dev" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+    <a href="https://youtube.com/@RehanAli" target="_blank">
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    </a>
+    <a href="mailto:alirehan3920@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+  </p>
+
 </div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+---
 
+### 💫 About Me
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=RehanaliDev&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=RehanaliDev&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=RehanaliDev&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+```javascript
+const rehanAli = {
+    pronouns: "He/Him",
+    role: "Full Stack Web Developer",
+    location: "India",
+    passion: ["High Performance Web Apps", "Modern UI/UX", "System Architecture"],
+    currentFocus: "Next.js, Microservices & Cloud Native Solutions",
+    hobbies: ["Exploring New Tech", "Tech Blogging", "Gaming", "Coffee & Code ☕"],
+    askMeAbout: ["Web Development", "Frontend Frameworks", "API Design", "Database Modeling"],
+    getInTouch: "alirehan3920@gmail.com"
+};
+```
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=RehanaliDev&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- 🔭 **Current Focus:** Crafting production-grade, highly-responsive web applications.
+- 🌱 **Learning & Exploring:** Advanced DevOps (Docker, Kubernetes) & Cloud Architecture (AWS).
+- 👯 **Open to Collaboration:** Innovative Full Stack projects, Open Source contributions & Startups.
+- 💬 **Ask me about:** JavaScript/TypeScript, React, Node.js, Express, Django & Database Optimization.
+- ⚡ **Fun Fact:** I convert caffeine into scalable code! ☕🚀
 
 ---
-[![](https://komarev.com/ghpvc/?username=RehanaliDev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💻 Tech Stack & Tooling
+
+<div align="center">
+
+#### 🎨 Frontend Architecture
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,redux&perline=9" alt="Frontend Tech" />
+</p>
+
+#### ⚙️ Backend & API Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,fastapi,graphql&perline=6" alt="Backend Tech" />
+</p>
+
+#### 🗄️ Database & Cloud Infrastructure
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,aws,docker&perline=6" alt="Databases & Cloud" />
+</p>
+
+#### 🛠️ Workflow, Tools & Systems
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,figma,canva&perline=7" alt="Tools & Workflow" />
+</p>
+
+</div>
+
+---
+
+### 📊 GitHub Activity & Analytics
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=RehanaliDev&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=F43F5E&text_color=94A3B8" alt="GitHub Stats" width="100%" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://streak-stats.demolab.com/?user=RehanaliDev&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=F43F5E&currStreakLabel=6366F1" alt="GitHub Streak" width="100%" />
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RehanaliDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=94A3B8" alt="Top Languages" width="100%" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Dev Quote" width="100%" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 🏆 GitHub Achievements & Trophies
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=RehanaliDev&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" width="95%" />
+  </a>
+</div>
+
+---
+
+### 📈 Contribution Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RehanaliDev&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=6366F1&line=F43F5E&point=FFFFFF" width="100%" alt="Activity Graph" />
+</div>
+
+---
+
+### 🐍 Contribution Snake Animation
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RehanaliDev/RehanaliDev/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RehanaliDev/RehanaliDev/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/RehanaliDev/RehanaliDev/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</div>
+
+---
+
+### 🚀 Featured Repositories & Projects
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%">
+        <h4 align="center">🌟 Full Stack Web Application</h4>
+        <p align="center">A high-performance modern web application built with MERN / Next.js featuring secure auth and seamless UI.</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+          <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+        </p>
+        <p align="center">
+          <a href="https://github.com/RehanaliDev"><b>Explore Repo »</b></a>
+        </p>
+      </td>
+      <td width="50%">
+        <h4 align="center">⚡ REST API & Microservices</h4>
+        <p align="center">Scalable backend architecture with JWT authentication, role-based access control and rate-limiting.</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square" />
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+        </p>
+        <p align="center">
+          <a href="https://github.com/RehanaliDev"><b>Explore Repo »</b></a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 🤝 Connect & Collaborate
+
+<div align="center">
+
+Ready to build something extraordinary together? Feel free to reach out via:
+
+[![Email](https://img.shields.io/badge/Send%20Email-alirehan3920%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alirehan3920@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/RehanAli)
+
+</div>
+
+<br/>
+
+<!-- 🌊 Footer Wave -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,30&height=120&section=footer" width="100%" alt="Footer Wave" />
+  <p align="center">
+    <i>Designed with ❤️ by <b>Rehan Ali</b> • Happy Coding! 🚀</i>
+  </p>
+</div>
