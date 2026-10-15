@@ -49,26 +49,65 @@
 
 ---
 
-### 💫 About Me
+### 🖥️ Developer Environment & Identity
 
-```javascript
-const rehanAli = {
-    pronouns: "He/Him",
-    role: "Full Stack Web Developer",
-    location: "India",
-    passion: ["High Performance Web Apps", "Modern UI/UX", "System Architecture"],
-    currentFocus: "Next.js, Microservices & Cloud Native Solutions",
-    hobbies: ["Exploring New Tech", "Tech Blogging", "Gaming", "Coffee & Code ☕"],
-    askMeAbout: ["Web Development", "Frontend Frameworks", "API Design", "Database Modeling"],
-    getInTouch: "alirehan3920@gmail.com"
-};
+```zsh
+┌──(rehan㉿dev)-[~]
+└─$ neofetch --profile "Rehan Ali"
+
+   ⚡ SYSTEM & DEVELOPER SPECIFICATION
+   ───────────────────────────────────────────────────────────────
+   👤 Identity      :: Rehan Ali (He/Him)
+   💼 Profession    :: Full Stack Web Developer & Software Engineer
+   📍 Location      :: India 🇮🇳
+   ☕ Runtime Fuel  :: 99% Coffee, 1% Sleep
+   🧠 Core Special  :: Scalable MERN & Django Architectures
+   🚀 Availability  :: Open for Full-time Roles, Freelance & Collabs
+   📫 Direct Ping   :: alirehan3920@gmail.com
 ```
 
-- 🔭 **Current Focus:** Crafting production-grade, highly-responsive web applications.
-- 🌱 **Learning & Exploring:** Advanced DevOps (Docker, Kubernetes) & Cloud Architecture (AWS).
-- 👯 **Open to Collaboration:** Innovative Full Stack projects, Open Source contributions & Startups.
-- 💬 **Ask me about:** JavaScript/TypeScript, React, Node.js, Express, Django & Database Optimization.
-- ⚡ **Fun Fact:** I convert caffeine into scalable code! ☕🚀
+<br/>
+
+<div align="center">
+  <table border="0" width="100%">
+    <tr>
+      <td width="50%" valign="top">
+        <div align="left">
+          <img src="https://img.shields.io/badge/🎯_MISSION-Scalable_Web_Products-6366f1?style=for-the-badge&labelColor=0d1117" alt="Mission" />
+          <br/><br/>
+          <b>Crafting High-Performance Software</b>
+          <p>Engineering production-grade web applications with modern frontend aesthetics, resilient APIs, and optimized cloud architectures.</p>
+        </div>
+      </td>
+      <td width="50%" valign="top">
+        <div align="left">
+          <img src="https://img.shields.io/badge/⚡_TECH_CORE-MERN_%26_Django-10b981?style=for-the-badge&labelColor=0d1117" alt="Tech Core" />
+          <br/><br/>
+          <b>Full Stack Engineering Excellence</b>
+          <p>Expertise across JavaScript, TypeScript, React, Next.js, Node.js, Express, Python, Django, MongoDB, and relational SQL databases.</p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <div align="left">
+          <img src="https://img.shields.io/badge/🌱_EVOLUTION-DevOps_%26_Cloud-f43f5e?style=for-the-badge&labelColor=0d1117" alt="Evolution" />
+          <br/><br/>
+          <b>Continuous System Growth</b>
+          <p>Actively leveling up in Docker containerization, Kubernetes orchestration, CI/CD automated pipelines, and AWS cloud management.</p>
+        </div>
+      </td>
+      <td width="50%" valign="top">
+        <div align="left">
+          <img src="https://img.shields.io/badge/🤝_SYNERGY-Let's_Collaborate-8b5cf6?style=for-the-badge&labelColor=0d1117" alt="Synergy" />
+          <br/><br/>
+          <b>Open Source & Tech Ventures</b>
+          <p>Always enthusiastic to join forces on high-impact open source tools, innovative SaaS startups, and exciting developer projects.</p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -153,33 +192,52 @@ const rehanAli = {
 
 ---
 
-### 🚀 Featured Repositories & Projects
+### 🚀 Featured Repositories & Pinned Works
 
 <div align="center">
-  <table border="0">
+  <table border="0" width="100%">
     <tr>
-      <td width="50%">
-        <h4 align="center">🌟 Full Stack Web Application</h4>
-        <p align="center">A high-performance modern web application built with MERN / Next.js featuring secure auth and seamless UI.</p>
+      <td width="50%" align="center" valign="top">
+        <a href="https://github.com/RehanaliDev/Analog-Clock">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RehanaliDev&repo=Analog-Clock&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=F43F5E&text_color=94A3B8" alt="Analog Clock Repo" width="100%" />
+        </a>
+      </td>
+      <td width="50%" align="center" valign="top">
+        <a href="https://github.com/RehanaliDev/RehanaliDev">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RehanaliDev&repo=RehanaliDev&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=F43F5E&text_color=94A3B8" alt="Profile Portfolio Repo" width="100%" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<div align="center">
+  <table border="0" width="100%">
+    <tr>
+      <td width="50%" valign="top">
+        <h4 align="center">🌟 Modern Full Stack Web App</h4>
+        <p align="center">Scalable web architecture built with React, Next.js, and Node.js featuring secure auth and interactive UI.</p>
         <p align="center">
           <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
           <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
           <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
         </p>
         <p align="center">
-          <a href="https://github.com/RehanaliDev"><b>Explore Repo »</b></a>
+          <a href="https://github.com/RehanaliDev"><b>⚡ Explore Repository »</b></a>
         </p>
       </td>
-      <td width="50%">
-        <h4 align="center">⚡ REST API & Microservices</h4>
-        <p align="center">Scalable backend architecture with JWT authentication, role-based access control and rate-limiting.</p>
+      <td width="50%" valign="top">
+        <h4 align="center">⚡ High-Performance REST & Cloud APIs</h4>
+        <p align="center">Backend services featuring JWT auth, role-based permissions, rate limiting, and automated cloud deployments.</p>
         <p align="center">
           <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square" />
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
           <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
         </p>
         <p align="center">
-          <a href="https://github.com/RehanaliDev"><b>Explore Repo »</b></a>
+          <a href="https://github.com/RehanaliDev"><b>⚡ Explore Repository »</b></a>
         </p>
       </td>
     </tr>
